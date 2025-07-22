@@ -68,7 +68,6 @@ Line chart comparing how movies and shows have evolved year over year.
 
 - **TV-MA** and **TV-14** are the most frequent ratings.
 - Netflix has more **Movies** than TV Shows.
-- The platform’s content library grew massively after **2015**.
 - **USA** and **India** are the leading producers of Netflix content.
 - Movie durations are mostly between **90–120 minutes**.
 
