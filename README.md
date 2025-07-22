@@ -16,7 +16,6 @@ This project performs exploratory data analysis and visualization on Netflix's c
 - Python 🐍
 - Pandas
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
@@ -71,16 +70,7 @@ Line chart comparing how movies and shows have evolved year over year.
 - Netflix has more **Movies** than TV Shows.
 - The platform’s content library grew massively after **2015**.
 - **USA** and **India** are the leading producers of Netflix content.
-- Movie durations are mostly between **80–120 minutes**.
-
----
-
-## 🧠 What You'll Learn
-
-- Real-world data cleaning using `dropna`, `.str.replace()`, `.groupby()`, etc.
-- Creating different types of visualizations using Matplotlib and Seaborn.
-- Drawing business insights from data.
-- Presenting a clean, visual story through charts.
+- Movie durations are mostly between **90–120 minutes**.
 
 ---
 
