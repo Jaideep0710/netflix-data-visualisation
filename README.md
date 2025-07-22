@@ -88,4 +88,4 @@ Line chart comparing how movies and shows have evolved year over year.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/netflix-data-visualisation.git
+   git clone https://github.com/Jaideep0710/netflix-data-visualisation.git
